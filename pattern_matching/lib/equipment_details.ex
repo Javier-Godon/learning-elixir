@@ -1,13 +1,13 @@
 defmodule EquipmentDetails do
   def get_equipment_list() do
-    [:space_helmet, :space_suit, :snacks, :grapling_hook, :probe]
+    [:space_helmet, :space_suite, :snacks, :grappling_hook, :probe]
   end
 
   def item_details(:space_helmet) do
     {3, :kg, 1}
   end
 
-  def item_details(:space_suit) do
+  def item_details(:space_suite) do
     {16, :kg, 1}
   end
 
@@ -15,7 +15,7 @@ defmodule EquipmentDetails do
     {1, :kg, 16}
   end
 
-  def item_details(:grapling_hook) do
+  def item_details(:grappling_hook) do
     {4, :kg, 1}
   end
 
