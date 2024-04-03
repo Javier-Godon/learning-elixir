@@ -68,6 +68,10 @@ pattern matching happens anytime I use =
     end
   end
 
+  def create_hand(hand_size), do:
+    Cards.create_deck_improved |> Cards.shuffle |> Cards.deal(hand_size)
+
+
 end
 
 
