@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/phoenix,elixir,intellij
-# Edit at https://www.toptal.com/developers/gitignore?templates=phoenix,elixir,intellij
+# Created by https://www.toptal.com/developers/gitignore/api/intellij,elixir,phoenix
+# Edit at https://www.toptal.com/developers/gitignore?templates=intellij,elixir,phoenix
 
 ### Elixir ###
 /_build
@@ -152,4 +152,4 @@ fabric.properties
 /installer/doc
 /installer/deps
 
-# End of https://www.toptal.com/developers/gitignore/api/phoenix,elixir,intellij
+# End of https://www.toptal.com/developers/gitignore/api/intellij,elixir,phoenix
